@@ -1,0 +1,10 @@
+Package: com.ted2.bloonstd6
+Name: Bloons TD 6 Mod Menu
+Depends: mobilesubstrate
+Version: 17.1
+Architecture: iphoneos-arm
+Description: Bloons TD 6 Mod Menu by Ted2!
+Maintainer: Ted2
+Author: Ted2
+Section: Tweaks
+Homepage: 
