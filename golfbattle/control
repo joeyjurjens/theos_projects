@@ -1,0 +1,10 @@
+Package: com.ted2.golfbattle
+Name: Golf Battle Mod Menu
+Depends: mobilesubstrate
+Version: 1.12.0
+Architecture: iphoneos-arm
+Description: Golf Battle Mod Menu by Ted2!
+Maintainer: Ted2
+Author: Ted2
+Section: Tweaks
+Homepage: 
